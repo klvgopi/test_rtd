@@ -17,6 +17,6 @@ resume normal content ended with single colon:
 	$ this is a line of code
 
 resume normal content 2 ended with two colons::
-resume normal content 3
+resume normal content 3 started without a blank line before
 
 
