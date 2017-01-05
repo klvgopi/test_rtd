@@ -29,8 +29,8 @@ There are 3 main sections in this.
    :maxdepth: 2
    :caption: Section1 start
 
-	subsec1
-	subsec2
+subsec1
+subsec2
 
 .. _sec2:
 
@@ -38,7 +38,7 @@ There are 3 main sections in this.
    :maxdepth: 2
    :caption: Section2 start
 
-	subsec3
+subsec3
 
 .. _sec3:
 
@@ -46,7 +46,7 @@ There are 3 main sections in this.
    :maxdepth: 2
    :caption: Section3 start
 
-	subsec4
+subsec4
 
 .. _sec4:
 
@@ -54,7 +54,7 @@ There are 3 main sections in this.
    :maxdepth: 2
    :caption: Section4 start
 
-	subsec5
+subsec5
 
 
 .. toctree::
@@ -62,9 +62,9 @@ There are 3 main sections in this.
    :glob:
    :caption: Section5 start
 
-	subsec6
-	gtdir2/*
-	gtdir/subsec17
+subsec6
+gtdir2/*
+gtdir/subsec17
 
 
 THE END
