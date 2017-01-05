@@ -17,10 +17,10 @@ Indices and tables
 
 There are 3 main sections in this.
 
-* :ref: `sec1`
-* :ref: `sec2`
-* :ref: `sec3`
-* :ref: `sec4`
+* :ref:`sec1`
+* :ref:`sec2`
+* :ref:`sec3`
+* :ref:`sec4`
 
 
 .. _sec1:
