@@ -17,16 +17,16 @@ Indices and tables
 
 There are 3 main sections in this.
 
-* :ref: sec1
-* :ref: sec2
-* :ref: sec3
+* :ref: `sec1`
+* :ref: `sec2`
+* :ref: `sec3`
 * :ref: `sec4`
 
 
 .. _sec1:
 .. toctree::
    :maxdepth: 2
-   :caption: Contents: Section1 start
+   :caption: Section1 start
 
 	subsec1
 	subsec2
@@ -34,21 +34,21 @@ There are 3 main sections in this.
 .. _sec2:
 .. toctree::
    :maxdepth: 2
-   :caption: Contents: Section2 start
+   :caption: Section2 start
 
 	subsec3
 
 .. _sec3:
 .. toctree::
    :maxdepth: 2
-   :caption: Contents: Section3 start
+   :caption: Section3 start
 
 	subsec4
 
 .. _sec4:
 .. toctree::
    :maxdepth: 2
-   :caption: Contents: Section4 start
+   :caption: Section4 start
 
 	subsec5
 
@@ -56,7 +56,7 @@ There are 3 main sections in this.
 .. toctree::
    :maxdepth: 2
    :glob:
-   :caption: Contents: Section5 start
+   :caption: Section5 start
 
 	subsec6
 	gtdir2/*
