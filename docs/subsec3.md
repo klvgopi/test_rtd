@@ -1,7 +1,7 @@
 # Main heading
 This is md file
 
-content1
+content1 [link to subsubhead][link1]
 content2
 
 content3
@@ -12,10 +12,14 @@ content4
 ## sub heading
 *point1
 * point2
+	* subpoint1
 - point3
 
+
 ### sub sub heading 1
-content
+> content slkjdflks
+
+> as;lfdksdfl
 
 
 ### sub sub heaing 2
@@ -34,4 +38,9 @@ line3
 * content `highlight with single qoutes`
 * ``highlighted with double qoutes``
 * content [the link](http://google.com)
+* line is <s>striked content</s>
+
+
+![sample image](http://octodex.github.com/images/octdrey-catburn.jpg)
+
 
